@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    object_context_logger (0.1.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    minitest (5.19.0)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  awesome_print
+  minitest (~> 5.0)
+  object_context_logger!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.4.10
