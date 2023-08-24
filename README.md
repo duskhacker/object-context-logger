@@ -12,7 +12,7 @@ context in the log message, I wrote this little bit of code.
 
 ### Bundler 
 
-    gem 'error_extractor', '~> 0.1.0'
+    gem 'object_context_logger', '~> 0.1.0'
 
 ### Gem install
 
